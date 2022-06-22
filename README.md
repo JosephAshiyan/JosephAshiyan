@@ -23,7 +23,7 @@
   </div>
   <br><br><br>
   <div >
-  <img width=650 height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosephAshiyan&theme=github_dark&title_color=61dafb&text_color=ffffff" />
+  <img width=600 height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosephAshiyan&theme=github_dark&title_color=61dafb&text_color=ffffff" />
   <img width=325 height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JosephAshiyan&theme=github_dark&title_color=61dafb&text_color=ffffff" />
   </div>
   
