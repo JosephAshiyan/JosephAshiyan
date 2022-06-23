@@ -5,7 +5,7 @@
 -  📫 How to reach me: josephasiyan@gmail.com
 
 ## Skills
-- 👨‍💻 HTML, JavaScript, Python, Java, React, Django
+- 👨‍💻 HTML, JavaScript, TypeScript, Python, Java, React, Django
 - ⚙️ Jira, Heroku, Slack, Agile
 - 👁️ SASS, CSS, Bootstrap
 - 💽 SQL, SQLite, PostgreSQL
