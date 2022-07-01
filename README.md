@@ -1,7 +1,7 @@
-## Hi 👋
--   ⚡ I'm Joseph, a web developer from cosmos.
+## Hi There 👋
+-   ⚡ I'm Joseph, a web developer from cosmos...
 -  🔭 I’m currently working on fullstack projects...
--  💬 Ask me about everything.
+-  💬 Ask me about everything...
 -  📫 How to reach me: josephasiyan@gmail.com
 
 ## Skills
